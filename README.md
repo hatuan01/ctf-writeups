@@ -1,4 +1,4 @@
-# CTF Write-ups — Tuan Hoang
+# CTF Write-ups
 
 This repository contains my technical write-ups and exploit implementations for security challenges from:
 
@@ -13,8 +13,3 @@ The purpose of this repository is to demonstrate my hands-on skills in:
 - Web security
 
 All content is for educational purposes only. No active machines or ongoing competitions are documented.
-
----
-
-## Structure
-
